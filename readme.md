@@ -14,16 +14,14 @@
 
 A fast and feature-rich implementation of an ESP32 and ESP8266 webserver to control NeoPixel (WS2812B, WS2811, SK6812) LEDs or also SPI based chipsets like the WS2801 and APA102!
 
-<<<<<<< HEAD
 ## ⚠️ Notice
 
 This is a **personal fork** of WLED with **experimental changes** for private use.  
 It is **not guaranteed to be stable or production-safe**.
 
 Please **do not open issues or pull requests** — this fork is not actively maintained or supported.
-=======
+
 Originally created by [Aircoookie](https://github.com/Aircoookie)
->>>>>>> 4d63b3c8a0569f72cecf177f98ab26c3e733c60a
 
 ## ⚙️ Features
 - WS2812FX library with more than 100 special effects  
